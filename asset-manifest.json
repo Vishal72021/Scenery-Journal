@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Scenery-Journal/static/css/main.e1b7f265.css",
+    "main.js": "/Scenery-Journal/static/js/main.3f35b5f9.js",
+    "static/js/787.39019643.chunk.js": "/Scenery-Journal/static/js/787.39019643.chunk.js",
+    "index.html": "/Scenery-Journal/index.html",
+    "main.e1b7f265.css.map": "/Scenery-Journal/static/css/main.e1b7f265.css.map",
+    "main.3f35b5f9.js.map": "/Scenery-Journal/static/js/main.3f35b5f9.js.map",
+    "787.39019643.chunk.js.map": "/Scenery-Journal/static/js/787.39019643.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1b7f265.css",
+    "static/js/main.3f35b5f9.js"
+  ]
+}
