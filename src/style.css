@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* navbar styling */
+.navbar {
+    background-color: red;
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-svg {
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    fill: #FFF;
+}
+
+.navbar-title {
+    color: white;
+    padding-left: 10px;
+}
+
+/* card styling */
+.card-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.card-content-image {
+    width: 125px;
+    height: 168px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    padding: 0 10px;
+}
+
+.card-content-location-description {
+    display: flex;
+    align-items: center;
+}
+
+.card-svg {
+    width: 7px;
+    height: 9.545px;
+    flex-shrink: 0;
+    fill: #F55A5A;
+}
+
+.card-content-location-description-p{
+    width: 72px;
+    height: 10px;
+    padding: 0 5px;
+    flex-shrink: 0;
+    color: #2B283A;
+    font-family: Inter;
+    font-size: 10.24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1.741px;
+}
+
+a {
+    width: 106px;
+    height: 13px;
+    flex-shrink: 0;
+    color: #918E9B;
+    font-family: Inter;
+    font-size: 10.24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+.card-content-description {
+    display: flex;
+    flex-direction: column;
+}
+
+.card-content-description-title {
+    width: 326px;
+    height: 40px;
+    flex-shrink: 0;
+    color: #2B283A;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.card-content-description-date{
+    width: 319px;
+    height: 11px;
+    flex-shrink: 0;
+    color: #2B283A;
+    font-family: Inter;
+    font-size: 10.24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.card-content-description-info{
+    width: 226px;
+    color: #2B283A;
+    font-family: Inter;
+    font-size: 10.24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 15.36px */
+}
